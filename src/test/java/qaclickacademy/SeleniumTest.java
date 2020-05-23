@@ -26,7 +26,7 @@ public class SeleniumTest {
 	
 	
 	@Test
-	public void ElementsUI1()
+	public void ElementsUI2()
 	{
 		System.out.println("ElementsUI");
 	}
